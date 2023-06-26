@@ -47,7 +47,7 @@ export const ContactForm = ({onClickToAddBtn}) => {
                     required
                     onChange={onFormInputChangeNumber}
                     value={number}
-                    placeholder='xxx-xxx-xx-xx / xxx xxx xx xx'
+                    placeholder='xxx-xxx-xx-xx'
                 />
             </label>
             
